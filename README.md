@@ -108,7 +108,11 @@ The deployment URL will be provided after a successful deploy.
 
 ## Screenshots
 
-![Expense Tracker Screenshot](link-to-screenshot.png image.png)
+### Adding a Transaction
+![Expense Tracker Screenshot](link-to-screenshot.png)
+
+### Home Page
+![Home Page](image.png)
 
 ## License
 
