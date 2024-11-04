@@ -108,7 +108,7 @@ The deployment URL will be provided after a successful deploy.
 
 ## Screenshots
 
-![Expense Tracker Screenshot](link-to-screenshot.png)(image.png)
+![Expense Tracker Screenshot](link-to-screenshot.png image.png)
 
 ## License
 
