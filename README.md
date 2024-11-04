@@ -114,6 +114,9 @@ The deployment URL will be provided after a successful deploy.
 ### Home Page
 ![Home Page](image.png)
 
+## Live Demo
+You can view the live version of the Expense Tracker here: [Expense Tracker Live](https://expense-tracker-c467a.web.app/)
+
 ## License
 
 This project is licensed under the MIT License.
